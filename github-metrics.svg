@@ -1644,6 +1644,11 @@
                                 <div class="bar" style="width: 6.856%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">9%</span>
                             </div>
+                            <div class="entry">
+                                <span class="name">seu_lib_people</span>
+                                <div class="bar" style="width: 0%; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                <span class="value">0%</span>
+                            </div>
                         </div>
                     </section>
                 </div>
@@ -2275,7 +2280,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 16 Jan 2022, 00:09:11 (timezone Asia/Shanghai) with lowlighter/metrics@3.18.0-beta</span>
+                <span>Last updated 16 Jan 2022, 01:16:05 (timezone Asia/Shanghai) with lowlighter/metrics@3.18.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
