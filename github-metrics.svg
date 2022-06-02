@@ -554,6 +554,11 @@
                     <section class="column chart">
                         <h3>Language activity</h3>
                         <div class="chart-bars horizontal">
+                            <div class="entry">
+                                <span class="name">Go</span>
+                                <div class="bar" style="width: 79.82694684796044%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">100%</span>
+                            </div>
                         </div>
                     </section>
                 </div>
@@ -2510,7 +2515,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 2 Jun 2022, 12:37:50 (timezone Asia/Shanghai) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 2 Jun 2022, 13:24:35 (timezone Asia/Shanghai) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
